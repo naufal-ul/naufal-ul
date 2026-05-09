@@ -1,12 +1,12 @@
 # Hi there, I'm Naufalul Fajri! 👋
 
 ## 🚀 About Me
-[cite_start]I am a fresh graduate in **Information Technology** from **Telkom University** (GPA 3.79)[cite: 4, 35, 36]. [cite_start]I have a deep interest in **Data Analysis**, **Machine Learning**, and **Web Development**[cite: 4]. [cite_start]I am passionate about transforming complex data into actionable insights and building user-centric web applications[cite: 4, 29].
+I am a fresh graduate in **Information Technology** from **Telkom University** (GPA 3.79). I have a deep interest in **Data Analysis**, **Machine Learning**, and **Web Development**. I am passionate about transforming complex data into actionable insights and building user-centric web applications.
 
-- [cite_start]🎓 **Education**: S1 Information Technology, Telkom University[cite: 35].
-- [cite_start]🔍 **Recent Research**: Bot Account Detection on Twitter-X using Random Forest & BPSO[cite: 22].
-- [cite_start]🏫 **Experience**: Former Teaching Assistant for **Computer Networks** and **Object-Oriented Programming**[cite: 37].
-- [cite_start]💡 **Certifications**: Google Cloud (Data Science & Generative AI) and BNSP (Computer Network Implementation)[cite: 37, 38].
+- 🎓 **Education**: S1 Information Technology, Telkom University
+- 🔍 **Recent Research**: Bot Account Detection on Twitter-X using Random Forest & BPSO
+- 🏫 **Experience**: Former Teaching Assistant for **Computer Networks** and **Object-Oriented Programming**
+- 💡 **Certifications**: Google Cloud (Data Science & Generative AI) and BNSP (Computer Network Implementation)
 
 ---
 
@@ -29,13 +29,13 @@
 ## 🔬 Featured Projects
 
 ### [Bot Account Detection on Twitter-X](https://doi.org/10.1109/ICoABCD67551.2025.11470726)
-[cite_start]Developed a classification model using **Random Forest** and **Binary Particle Swarm Optimization (BPSO)** to identify bot accounts with high precision[cite: 22, 23, 25].
+Developed a classification model using **Random Forest** and **Binary Particle Swarm Optimization (BPSO)** to identify bot accounts with high precision.
 
 ### [KuBertelur - SME Management System](https://github.com/naufalulfajri/kubertelur)
-[cite_start]Built the frontend for a fisheries management system, translating UI/UX designs from Figma into responsive web interfaces[cite: 28, 29, 30].
+Built the frontend for a fisheries management system, translating UI/UX designs from Figma into responsive web interfaces.
 
 ### [CNN for DDoS Attack Detection](https://doi.org/10.52661/jict.v6i2.337)
-[cite_start]Implemented a deep learning model to classify normal and anomalous network traffic to prevent DDoS attacks[cite: 26, 27].
+Implemented a deep learning model to classify normal and anomalous network traffic to prevent DDoS attacks.
 
 ---
 
@@ -48,8 +48,8 @@
 ---
 
 ## 📫 Let's Connect!
-[cite_start][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufalulfajri) [cite: 3]
-[cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufalul.fajrill@gmail.com) [cite: 3]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufalulfajri) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufalul.fajrill@gmail.com)
 
 ---
 *"Dedicated to continuous learning and solving problems through technology."*
